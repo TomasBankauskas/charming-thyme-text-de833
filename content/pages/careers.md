@@ -2,32 +2,6 @@
 title: Careers
 layout: PageLayout
 sections:
-  - elementId: ''
-    colors: colors-a
-    text: |
-      ![carrers](/images/careers.jpg)
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      text:
-        textAlign: center
-    type: TextSection
   - colors: colors-a
     elementId: ''
     title: Convinced? check out these open roles
