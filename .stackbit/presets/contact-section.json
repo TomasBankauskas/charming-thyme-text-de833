@@ -9,6 +9,7 @@
                 "text": "We look forward to hearing from you.",
                 "colors": "colors-a",
                 "elementId": "contact-form",
+                
                 "styles": {
                     "self": {
                         "height": "auto",
