@@ -50,7 +50,8 @@
                     "pl-4"
                 ]
             }
-        }
+        },
+        "title": "Your brand"
     },
     "footer": {
         "colors": "colors-c",
