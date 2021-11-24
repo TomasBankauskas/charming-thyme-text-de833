@@ -2,7 +2,6 @@
 title: Careers
 layout: PageLayout
 sections:
-  
   - elementId: ''
     colors: colors-f
     title: Get early access
