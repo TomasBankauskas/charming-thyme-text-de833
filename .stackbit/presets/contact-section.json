@@ -117,7 +117,7 @@
                 },
                 "media": {
                     "type": "ImageBlock",
-                    "url": "https://assets.stackbit.com/components/images/default/contact.png",
+                    "url": "/images/presets/careers.jpg",
                     "altText": "Contact form image"
                 },
                 "styles": {
