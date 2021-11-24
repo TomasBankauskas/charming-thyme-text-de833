@@ -38,7 +38,7 @@ sections:
       submitLabel: Send Message
     media:
       type: ImageBlock
-      url: /images/presets/careers.jpg
+      url: /images/carla.jpg
       altText: Contact form image
     styles:
       self:
