@@ -14,7 +14,7 @@
                         "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae. explicabo.",
                         "featuredImage": {
                             "type": "ImageBlock",
-                            "url": "images/items-3-col-light.png"
+                            "url": "images/items-3-col-light.png",
                             "altText": "Item image"
                         }
                     },
