@@ -3,54 +3,6 @@ title: Careers
 layout: PageLayout
 sections:
   - elementId: ''
-    colors: colors-h
-    title: Love where you work
-    subtitle: ''
-    text: >-
-      One platform, one community, getting to the bottom line of everything
-      employment.  Figure out your benefits, practice for interviews, get
-      mentored, help peers, get helped in return.
-    actions:
-      - type: Button
-        label: Sign Up
-        url: /
-        style: primary
-      - type: Button
-        label: Learn More
-        url: /
-        style: secondary
-    media:
-      type: ImageBlock
-      url: /images/hero-3.jpg
-      altText: Hero image
-    backgroundImage: {}
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: col
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-  - elementId: ''
     variant: variant-d
     colors: colors-f
     title: Featured
