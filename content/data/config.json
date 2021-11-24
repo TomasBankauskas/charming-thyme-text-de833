@@ -1,7 +1,7 @@
 {
     "type": "Config",
     "header": {
-        "headerVariant": "variant-b",
+        "headerVariant": "variant-c",
         "primaryColors": "colors-a",
         "secondaryColors": "colors-f",
         "isTitleVisible": true,
