@@ -2,7 +2,7 @@ import * as React from 'react';
 import classNames from 'classnames';
 import Markdown from 'markdown-to-jsx';
 import { mapStylesToClassNames as mapStyles } from '@stackbit/components/dist/utils/map-styles-to-class-names';
-import { getComponent } from '../../components-registry';
+import { getComponent } from '@stackbit/components/dist/components-registry';
 import ImageBlock from '../ImageBlock';
 
 export default function FeaturedPeopleSection(props) {
