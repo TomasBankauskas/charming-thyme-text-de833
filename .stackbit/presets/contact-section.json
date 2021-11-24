@@ -10,7 +10,8 @@
                 "colors": "colors-a",
                 "elementId": "contact-form",
                 "media": {
-                    type: "ImageBlock",
+                    "type": "ImageBlock",
+                    "url": 
                 },
                 "styles": {
                     "self": {
