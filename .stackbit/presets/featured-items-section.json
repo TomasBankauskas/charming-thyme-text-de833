@@ -73,6 +73,7 @@
                         }
                     }
                 ],
+                "actions": [],
                 "columns": 3,
                 "styles": {
                     "self": {
@@ -156,6 +157,7 @@
                         }
                     }
                 ],
+                "actions": [],
                 "columns": 3,
                 "styles": {
                     "self": {
