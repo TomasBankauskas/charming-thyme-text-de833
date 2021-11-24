@@ -116,7 +116,7 @@
             "label": "Featured posts dark - list",
             "thumbnail": "images/feat-posts-dark-list.png",
             "data": {
-                "variant": "variant-b",
+                "variant": "variant-d",
                 "colors": "colors-f",
                 "title": "Featured",
                 "subtitle": "Featured blog posts section example",
